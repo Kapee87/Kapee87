@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I am currently working on personal and freelance projects, in addition to small projects with a self-managed community organization in which we are focusing on learning, especially how to organize ourselves with teamwork.<br>🌱 I’m currently learning React.js, Javascript and looking for learn Mongo DB and Node.js with Express.
+🔭 I am currently working on personal and freelance projects, in addition to small projects with a self-managed community organization in which we are focusing on learning, especially how to organize ourselves with teamwork.<br>🌱 I’m currently learning React.js, Javascript and ~~looking for~~ learning Mongo DB and Node.js with Express for backend applications.
 
+🔭 Actualmente estoy trabajando en proyectos personales y freelance, además de pequeños proyectos con una organización comunitaria autogestionada en la que nos estamos centrando en aprender, sobre todo a organizarnos con trabajo en equipo.<br>🌱 Actualmente estoy aprendiendo React.js, Javascript y ~~buscando~~ aprender Mongo DB y Node.js con Express para aplicaciones backend.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nahuel-andrés-montaner/) 
