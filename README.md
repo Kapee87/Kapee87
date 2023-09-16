@@ -27,7 +27,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+### Random Dev Meme
+<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kapee87&icon=0&color=6)](https://visitcount.itsvg.in)
 
